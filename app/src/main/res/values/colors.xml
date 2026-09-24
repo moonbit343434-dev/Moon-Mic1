@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_primary">#7c5cbf</color>
+    <color name="purple_dark">#4a3880</color>
+    <color name="purple_light">#c084fc</color>
+    <color name="bg_dark">#1a1a2e</color>
+    <color name="bg_card">#16213e</color>
+    <color name="text_primary">#e0e0ff</color>
+    <color name="text_secondary">#888888</color>
+    <color name="green">#4ade80</color>
+    <color name="red">#f87171</color>
+</resources>
